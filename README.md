@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kaan Hançer</h1>
-<p>Computer Engineer Candidate - Mobile Application Developer</p>
+<p>Computer Engineer Candidate - Frontend Web Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
